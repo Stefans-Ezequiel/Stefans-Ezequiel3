@@ -1,3 +1,4 @@
+## technologies
 # Hey I´m Stefans
 ## About me
 I´m an passionate learner with a keen focus on salesforce, I want to get into the testing world as a goal since I started my journey as a salesforce Administrator and programmer. here are some of the basic commands that I´ll be using
@@ -16,3 +17,8 @@ As I continue my journey in becoming a full QA, I am always on the lookout for c
 ## Technologies
 - Back-End: Proficient in Java, I bring to the table a strong understanding of server-side development...
 - Front-End: My expertise in Angular allows me to create interactive and user-friendly interfaces...
+## Hobbies
+- Dancing: ...
+- rollerskating
+-etc 
+ main
